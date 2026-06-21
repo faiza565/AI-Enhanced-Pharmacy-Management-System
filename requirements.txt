@@ -1,0 +1,5 @@
+requests
+tkcalendar
+pandas
+matplotlib
+seaborn
