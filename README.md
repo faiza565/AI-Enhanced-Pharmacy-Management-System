@@ -23,4 +23,6 @@ A Python Tkinter-based Pharmacy Management System with separate Admin and Employ
 ## ▶️ How to Run
 
 ```bash
+pip install -r requirements.txt
 python main.py
+
