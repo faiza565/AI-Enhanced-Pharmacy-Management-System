@@ -16,7 +16,7 @@ A Python Tkinter-based Pharmacy Management System with separate Admin and Employ
 
 - Python
 - Tkinter
-- SQLite (if used)
+- SQLite
 - APIs
 
 
