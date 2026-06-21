@@ -19,6 +19,11 @@ A Python Tkinter-based Pharmacy Management System with separate Admin and Employ
 - SQLite
 - APIs
 
+## 📄 Project Report
+
+For full documentation with screenshots and details, please refer to the attached PDF report:
+
+Pharmacy_Report.pdf
 
 ## ▶️ How to Run
 
